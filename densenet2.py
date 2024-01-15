@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+"""
 In this code, we implement DenseNet as described in Huang et al's paper
 """
 
